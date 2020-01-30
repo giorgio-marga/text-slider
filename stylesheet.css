@@ -1,0 +1,11 @@
+div.textToSlide--container {
+    white-space:no-wrap;
+    overflow:hidden;
+    border: 2px solid black;
+    padding: 5px;
+}
+div.textToSlide--container > div.textToSlide {
+    white-space:nowrap;
+    display:inline;
+    width:auto;
+}
