@@ -1,5 +1,5 @@
 # text-slider
 
-# watch Demo here: https://codepen.io/giorgio-marga/pen/vYEorgq
+## watch Demo here: https://codepen.io/giorgio-marga/pen/vYEorgq
 
-## written in jquery
+### written in jquery
